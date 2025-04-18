@@ -16,7 +16,7 @@ const HomeSection = () => {
         </div>
       </div>
       <div className="md:w-1/2 mt-6 md:mt-0 md:ml-10">
-        <h1 className="text-5xl font-bold">Find Me</h1>
+        <h1 className="text-5xl text-gray-800 font-bold">Find Me</h1>
         <p className="mt-4 text-gray-700">
           Temukan berbagai jenis burung hanya dari suara kicauannya. Kicau
           Finder membantu mengidentifikasi burung secara cepat dan akurat. Cukup
